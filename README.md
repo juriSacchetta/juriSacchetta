@@ -67,7 +67,3 @@ Always happy to discuss **security, tooling, or infrastructure design**—feel f
 
 ![](https://github-readme-stats.vercel.app/api?username=juriSacchetta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juriSacchetta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=juriSacchetta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
