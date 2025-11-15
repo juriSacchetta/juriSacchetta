@@ -1,6 +1,4 @@
-# 💫 About Me
-
-### 👨‍💻 Who I am
+# 👨‍💻 Who I am
 
 I’m Juri, a computer engineer working at the intersection of **systems, security, and DevOps**.
 
